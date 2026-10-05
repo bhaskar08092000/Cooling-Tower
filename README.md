@@ -36,7 +36,7 @@ The tool calculates the required tower height and generates graphical profiles f
 
 ### Main Dashboard
 
-screenshots/1.png
+![Water Cooling Tower App](1.png)
 
 ---
 
